@@ -1,5 +1,5 @@
 pytest~=7.2.1
-requests~=2.28.2
+requests~=2.32.4
 obd~=0.7.1
 gps~=3.19
 scipy
